@@ -11,7 +11,7 @@ A Facebook & Instagram ad intelligence tool built with Next.js and MCPs (Model C
 - Platform strategy insights (Facebook vs Instagram)
 - Actionable opportunities to exploit competitor weaknesses
 
-Built as a premium lead magnet tool for **CommerceInk.com** to capture high-value prospects spending $10K+/month on ads.
+Built as a premium lead magnet tool for teams to capture high-value prospects spending $10K+/month on ads.
 
 ## 🏗️ Architecture
 
